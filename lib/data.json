@@ -1,0 +1,306 @@
+{
+	"shuttle-lane": {
+		"services": ["UI/UX Design", "Prototype", "Web app", "Wireframes"],
+		"industry": "transportation",
+		"name": "Shuttle Lane Cab Servicing Platform",
+		"team_size": "4",
+		"imageSet": {
+			"logo": "/shuttlelane/shuttlelane-logo.png",
+			"gallery": [
+				"/shuttlelane/shuttlelane-banner.png",
+				"/shuttlelane/shuttlelane-homepage.png",
+				"/shuttlelane/shuttlelane-booking.png"
+			]
+		},
+		"timeline": ["1-2", "2-3", "3-7", "7-8"],
+		"slug": "shuttle-lane",
+		"tagline": "Advanced web platform for cab bookings",
+		"client": "Shuttle Lane, a prominent cab service provider operating in the UK and Africa.",
+		"objective": "Develop an advanced web platform enabling real-time cab bookings, efficient management of bookings, and seamless payment processing. The platform targeted both users and administrators, offering a streamlined experience for booking, updating availability, and managing payments.",
+		"background": "Shuttle Lane aimed to redefine the cab service experience with a dynamic web platform. Our goal was to create a user-friendly interface for real-time bookings, a robust admin dashboard for efficient management, and seamless payment integration. The platform needed to cater to users across the UK and Africa, providing a secure and convenient way to book and pay for cab services.",
+		"banner": "/shuttlelane/shuttlelane-banner.png",
+		"technologies_used": {
+			"Backend": "MongoDB database and Node.js, with Mongoose as the ORM (Object-Relational Mapping) for database interactions.",
+			"Frontend": "HTML, CSS, JavaScript, Next.js, and Material UI for a responsive and visually appealing user interface.",
+			"Payment Processing": "Integrated Stripe, PayPal, and Flutterwave for diverse and secure payment options.",
+			"Communication": "Leveraged Twilio for SMS notifications and SendGrid for email communication.",
+			"Design/Mockups": "Figma"
+		},
+		"features": {
+			"Real-time Cab Bookings": "Users could book cabs in real-time, selecting customized cars based on their specific trip requirements.",
+			"Admin Dashboard": "An intuitive admin dashboard allowed efficient management of bookings, real-time updates on car availability, and centralized control over payment processing.",
+			"Payment Integration": "Integrated multiple payment gateways, including Stripe, PayPal, and Flutterwave, providing users with flexible and secure payment options.",
+			"User Notifications": "Users received confirmation emails and SMS notifications upon successful bookings, ensuring a seamless and transparent experience.",
+			"Driver Communication": "Drivers received SMS and email notifications for new bookings, streamlining communication and ensuring timely service."
+		},
+		"result": "The Shuttle Lane Cab Servicing Platform achieved significant milestones",
+		"results": [
+			"Enhanced User Experience",
+			"Users experienced a seamless and efficient cab booking process with customized car selections and multiple payment options.",
+			"Efficient Admin Management: The admin dashboard facilitated streamlined management of bookings, real-time updates on car availability, and secure payment processing.",
+			"Secure and Diverse Payments: Integrated payment gateways enhanced user convenience, allowing payments through Stripe, PayPal, and Flutterwave.",
+			"Transparent Communication: Users and drivers benefited from real-time notifications, improving communication and ensuring a reliable and transparent service."
+		],
+		"future_enhancements": "Ongoing collaboration with Shuttle Lane includes plans for continuous improvement and feature enhancements, such as:       Integration of advanced analytics for data-driven decision-making.       Expansion of services to additional regions with tailored offerings."
+	},
+	"koh-studio": {
+		"imageSet": {
+			"gallery": [
+				"/kohstudio/kohstudio-banner.png",
+				"/kohstudio/kohstudio-homepage.png",
+				"/kohstudio/kohstudio-work.png",
+				"/kohstudio/kohstudio-project-details.png"
+			]
+		},
+		"timeline": ["1-2", "2-3", "3-5", "5-6"],
+		"name": "Koh Studio",
+		"team_size": "3",
+		"services": ["UI/UX Design", "Prototype", "Web app", "Wireframes"],
+		"industry": "Architecture & Building",
+		"slug": "koh-studio",
+		"tagline": "Architecture Portfolio Website",
+		"client": "Koh Studio, an innovative architecture firm passionate about creating inspiring spaces.",
+		"banner": "/kohstudio/banner.png",
+		"objective": "Develop a cutting-edge portfolio website to showcase Koh Studio's architectural prowess, featuring a gallery of drawings, rendered images, and project photos. Additionally, integrate sections highlighting residential, commercial, and international projects, and implement a query form for client inquiries.",
+		"background": "Shuttle Lane aimed to redefine the cab service experience with a dynamic web platform. Our goal was to create a user-friendly interface for real-time bookings, a robust admin dashboard for efficient management, and seamless payment integration. The platform needed to cater to users across the UK and Africa, providing a secure and convenient way to book and pay for cab services.",
+		"technologies_used": {
+			"Backend": "MongoDB database and Node.js, with Mongoose as the ORM (Object-Relational Mapping) for database interactions.",
+			"Frontend": "HTML, CSS, JavaScript, Next.js, and Material UI for a responsive and visually appealing user interface.",
+			"Payment Processing": "Integrated Stripe, PayPal, and Flutterwave for diverse and secure payment options.",
+			"Communication": "Leveraged Twilio for SMS notifications and SendGrid for email communication."
+		},
+		"features": {
+			"Real-time Cab Bookings": "Users could book cabs in real-time, selecting customized cars based on their specific trip requirements.",
+			"Admin Dashboard": "An intuitive admin dashboard allowed efficient management of bookings, real-time updates on car availability, and centralized control over payment processing.",
+			"Payment Integration": "Integrated multiple payment gateways, including Stripe, PayPal, and Flutterwave, providing users with flexible and secure payment options.",
+			"User Notifications": "Users received confirmation emails and SMS notifications upon successful bookings, ensuring a seamless and transparent experience.",
+			"Driver Communication": "Drivers received SMS and email notifications for new bookings, streamlining communication and ensuring timely service.",
+			"Result": "The Shuttle Lane Cab Servicing Platform achieved significant milestones",
+			"results": [
+				"Enhanced User Experience",
+				"Users experienced a seamless and efficient cab booking process with customized car selections and multiple payment options.",
+				"Efficient Admin Management: The admin dashboard facilitated streamlined management of bookings, real-time updates on car availability, and secure payment processing.",
+				"Secure and Diverse Payments: Integrated payment gateways enhanced user convenience, allowing payments through Stripe, PayPal, and Flutterwave.",
+				"Transparent Communication: Users and drivers benefited from real-time notifications, improving communication and ensuring a reliable and transparent service."
+			]
+		}
+	},
+	"seraab-valley": {
+		"imageSet": {
+			"gallery": [
+				"/seraab/seraabvalley-banner.png",
+				"/seraab/seraabvalley-homepage.png"
+			]
+		},
+		"timeline": ["1-2", "2-3", "3-4", "4-5"],
+		"services": ["UI/UX Design", "Wireframes", "Web app", "eCommerce"],
+		"slug": "seraab-valley",
+		"industry": "Food/Fruits & retail",
+		"team_size": "3",
+		"tagline": "E-commerce store",
+		"banner": "/seraab/banner.png",
+		"name": "Seerab Valley Dry Fruits E-commerce Platform",
+		"client": "Seerab Valley Dry fuits exporter rooted in the scenic Kashmir Valley",
+		"objective": "Develop a comprehensive web-based e-commerce platform for online presence and secure payment transactions.",
+		"background": "Leverage the growing trend of online shopping for premium dry fruits synonymous with the richness of Kashmir.",
+		"technologies_used": {
+			"Frontend": "HTML, CSS, JavaScript, Material-UI, React & Next.js",
+			"Payment Processing": "Integrated Stripe, PayPal, and Flutterwave for diverse and secure payment options.",
+			"Backend": "MongoDB database and Node.js, with Mongoose as the ORM (Object-Relational Mapping) for database interactions."
+		},
+		"challenges": {
+			"PaymentGatewayIntegration": "Integrated a PCI-compliant payment gateway for secure and convenient transactions.",
+			"UIUXDesign": "Developed a responsive and aesthetically pleasing design for an engaging shopping experience.",
+			"ScalabilityPerformance": "Employed a cloud-based infrastructure for scalability, optimized database queries, and utilized CDNs for enhanced performance.",
+			"MobileResponsiveness": "Implemented a responsive design and developed a PWA for offline access, enhancing the mobile user experience."
+		},
+		"results": [
+			"Increased Online Sales Seamless integration of a secure payment gateway contributed to a significant increase in online sales.",
+			"PositiveUser Feedback Customers praised the intuitive design, easy navigation, and visually appealing presentation of products.",
+			"Scalability Performance The scalable architecture ensured seamless handling of a growing product catalog and user base, experiencing a surge in traffic without performance issues.",
+			"Mobile UserEngagement Responsive design and PWA implementation improved mobile user engagement, leading to increased conversions."
+		],
+		"future_enhancements": {
+			"Plans": [
+				"Integration of personalized recommendation engines.",
+				"Development of a dedicated mobile application for iOS and Android platforms.",
+				"Implementation of advanced analytics for better insights into customer behavior."
+			]
+		}
+	},
+	"high-fashion-society-kicks": {
+		"services": [
+			"UI/UX Design",
+			"Prototype",
+			"Wireframes",
+			"eCommerce",
+			"Web app"
+		],
+		"timeline": ["1-2", "2-4", "4-8", "8-9"],
+		"imageSet": {
+			"logo": "/hfs/hfs-logo.png",
+			"gallery": [
+				"/hfs/hfs-banner.png",
+				"/hfs/hfs-homepage.png",
+				"/hfs/hfs-product.png",
+				"/hfs/hfs-cart.png",
+				"/hfs/hfs-mobile.png",
+				"/hfs/hfs-product-mobile.png"
+			]
+		},
+		"slug": "high-fashion-society-kicks",
+		"industry": "Fashion & retail",
+		"team_size": "4",
+		"tagline": "Premium Sneaker E-commerce store",
+		"name": "HFS Kicks E-Commerce Platform",
+		"banner": "/hfs/banner2.png",
+		"client": "HFS Kicks a premium sneaker store based in uk selling premium quality sneakers",
+		"background": "Create an intuitive e-commerce solution for a premium sneaker store, optimizing user experience, inventory control, secure transactions, and social media integration to enhance customer engagement and elevate sales performance",
+		"objective": "Develop a comprehensive e-commerce platform specializing in the sale of shoes with a focus on a user-friendly interface, efficient shopping experience, and streamlined administrative tools.",
+		"technologies_used": {
+			"Frontend": "HTML, CSS, JavaScript, Bootstrap, Redux Toolkit, Next.js & React.js",
+			"Backend": "Node.js, Express.js, MongoDB, S3 & aws",
+			"PaymentGateway": "PayPal"
+		},
+		"features": {
+			"Product Categorization": "Users can browse shoes categorized by brand names and sizes for a well-organized shopping experience.",
+			"Shopping Cart": "Seamless cart management allowing users to add products, review selections, and make individual purchases.",
+			"Order Tracking": "Customers can track the status of their orders, ensuring transparency throughout the delivery process.",
+			"Secure Payments With PayPal": "Integration of PayPal for secure and convenient online transactions.",
+			"Order Management": "Comprehensive tools for administrators to efficiently track, process, and manage customer orders.",
+			"Payment Management": "Monitoring and management of payment transactions for accurate financial tracking.",
+			"Inventory Management": "Admins can update and manage the inventory, ensuring accurate product availability."
+		},
+		"TechnicalApproach": {
+			"FrontendDevelopment": {
+				"HTMLCSSJavaScript": "Traditional web technologies for structuring content, styling, and client-side interactivity.",
+				"Bootstrap": "Employed Bootstrap for responsive and visually appealing designs, maintaining consistency across devices.",
+				"ReactNext": "Utilized React.js for building dynamic user interfaces and Next.js for server-side rendering, enhancing performance.",
+				"ReduxToolkit": "Implemented Redux Toolkit for state management, ensuring a predictable and centralized data flow."
+			},
+			"BackendDevelopment": {
+				"NodeExpress": "Leveraged Node.js for server-side development, enabling asynchronous and event-driven operations. Utilized Express.js for creating robust APIs with minimal boilerplate code.",
+				"MongoDB": "Chose MongoDB as the NoSQL database for its flexibility and scalability in handling e-commerce data."
+			},
+			"PaymentIntegration": {
+				"PayPal": "Integrated PayPal for secure and seamless online transactions, providing users with a trusted payment gateway."
+			},
+			"StylingAndUIUX": {
+				"CSS": "Utilized CSS for styling, ensuring an aesthetically pleasing and user-friendly interface."
+			},
+			"OrderInventoryManagement": {
+				"EfficientAdminPanel": "Developed an intuitive admin panel for order tracking, payment management, and inventory control."
+			},
+			"ScalabilityPerformance": {
+				"NextJSServerSideRendering": "Implemented server-side rendering for enhanced performance, reducing page load times.",
+				"OptimizedDatabaseQueries": "Ensured optimized database queries for efficient data retrieval and storage."
+			}
+		},
+		"results": [
+			"User Engagement Positive feedback from users on the user-friendly interface and seamless shopping experience.",
+			"Efficient Operations Admins benefited from efficient order management tools, leading to streamlined processes.",
+			"Secure Transactions The integration of PayPal ensured secure and trustworthy online transactions."
+		],
+		"future_enhancements": {
+			"EnhancedAnalytics": "Implement advanced analytics for insights into user behavior and product performance.",
+			"PersonalizedRecommendations": "Introduce personalized product recommendations for users based on their preferences and purchase history.",
+			"MobileApplication": "Explore the development of a mobile application to expand the reach and accessibility of HFS Kicks."
+		},
+		"Conclusion": "The HFS Kicks E-Commerce Platform successfully provides a seamless shopping experience for users and efficient tools for administrators. The chosen technologies contribute to the platform's speed, reliability, and security, positioning HFS Kicks as a competitive player in the e-commerce industry."
+	},
+	"kiadah": {
+		"services": [
+			"Product vision",
+			"Brand strategy / Brand identity",
+			"Strategy Product Discovery",
+			"UI/UX Design",
+			"User flow",
+			"Prototype",
+			"Mobile apps",
+			"Web app",
+			"QA automation"
+		],
+		"timeline": ["1-3", "3-5", "5-20", "20-22"],
+		"imageSet": {
+			"logo": "/kiadah/kiadah-logo.png",
+			"gallery": [
+				"/kiadah/kiadah-banner.png",
+				"/kiadah/kiadah-appointment.png",
+				"/kiadah/kiadah-login.png",
+				"/kiadah/kiadah-history.png",
+				"/kiadah/kiadah-homepage.png",
+				"/kiadah/kiadah-mock-1.png",
+				"/kiadah/kiadah-mock-2.png",
+				"/kiadah/kiadah-mock-3.png",
+				"/kiadah/kiadah-mock-4.png"
+			]
+		},
+		"slug": "kiadah",
+		"industry": "Healthcare & Pharma",
+		"team_size": "7",
+		"banner": "/kiadah/banner.png",
+		"tagline": "Medical Consultation For Empowering Health and Your Wellness",
+		"name": "Kiadah Medical Consultation and Booking Applications",
+		"client": "Kiadah healthcare organization based in Jammu and kashmir",
+		"background": "Develop a comprehensive medical consultation and booking application with separate interfaces for doctors and patients, accompanied by a web-based admin panel for efficient management.",
+		"objective": "Develop a comprehensive medical consultation and booking application with separate interfaces for doctors and patients, accompanied by a web-based admin panel for efficient management.",
+		"deliverables": [
+			"Patient Application",
+			"Doctor Application",
+			"Admin Dashboard"
+		],
+		"features": {
+			"AuthenticationOnboarding": "Secure phone number authentication with OTP for user onboarding.",
+			"DoctorAvailabilityCategorization": "View categorized lists of doctors based on specialties and check availability.",
+			"AppointmentBooking": "Book appointments for online, physical, or audio call consultations.",
+			"DocumentUpload": "Securely upload medical documents and test results.",
+			"PaymentIntegration": "Integrated Razorpay for secure and seamless payment transactions.",
+			"Communication": "Text-based communication with doctors for follow-ups and queries.",
+			"RemindersNotifications": "Users receive reminders for upcoming appointments and notifications for important updates.",
+			"FeedbackReviews": "Patients can provide feedback and reviews for doctors and appointments.",
+			"OnboardingAuthentication": "Similar phone number authentication with OTP for doctor onboarding.",
+			"TelemedicineFeatures": "Doctors can conduct consultations through voice and video calls.",
+			"AvailabilityManagement": "Doctors can set availability and working hours for efficient appointment scheduling.",
+			"FinancialTracking": "Real-time tracking of earnings, balance, and financial transactions.",
+			"PrescriptionGeneration": "Doctors can generate and securely deliver prescriptions to patients.",
+			"UserVerificationOnboarding": "Admin controls user verification for doctors and patients.",
+			"FinancialManagement": "Monitors financial transactions and automates deposit processes for doctors.",
+			"TieredCompensation": "Categorizes doctors into tiers (gold, silver, bronze) for compensation purposes.",
+			"FeedbackModeration": "Admin checks feedback comments to decline spam and inappropriate content.",
+			"AnalyticsReporting": "Provides analytical and graphical models of app activity for informed decision-making."
+		},
+		"PortfolioWebsite": "Created a dedicated website showcasing the project and provided download links for the application on App Store and Google Play Store.",
+		"technologies_used": {
+			"MobileAppDevelopment": "Flutter (Cross-platform framework).",
+			"Frontend": "JSX, CSS, JavaScript, NextJS & Bootstrap",
+			"Backend": "JavaScript (Node.js assumed) & MongoDB",
+			"MessageQueueSystem": "RabbitMQ",
+			"CloudServices": "AWS, S3 &  Nginx",
+			"ThirdPartyIntegrations": "Agora,  Streamio & Razorpay",
+			"Payment Processing": "Razorpay"
+		},
+		"approach": {
+			"CrossPlatformDevelopment": "Utilized Flutter for cross-platform capabilities, reducing development time and costs.",
+			"UserAuthentication": "Implemented secure phone number authentication with OTP for seamless and secure onboarding.",
+			"RealTimeCommunicationWithAgora": "Integrated Agora for telemedicine features, enabling real-time voice and video calls between doctors and patients.",
+			"BackendWithJavaScriptAndMongoDB": "Leveraged JavaScript for backend development (Node.js assumed) and MongoDB for flexibility in handling healthcare data.",
+			"FinancialTransparencyAutomation": "Ensured financial transparency by implementing real-time tracking of earnings and automating deposit processes for doctors.",
+			"MessageQueueSystemRabbitMQ": "Utilized RabbitMQ for a reliable and scalable message queue system.",
+			"CloudServicesWithAWS": "Leveraged AWS services, including Amazon S3 for scalable object storage and Nginx as a web server for efficient data delivery.",
+			"FrontendTechnologies": "Utilized JSX, CSS, JavaScript, NextJS, and Bootstrap for the frontend, creating an intuitive and responsive user interface.",
+			"FeedbackAnalytics": "Implemented a comprehensive feedback system for users and an analytics and reporting mechanism for administrators."
+		},
+		"results": [
+			"User Adoption Positive feedback from both doctors and patients, indicating user satisfaction and adoption.",
+			"Efficient Workflow Streamlined appointment booking, document management, and payment processes leading to an efficient healthcare workflow.",
+			"Secure Communication Implementation of secure communication channels ensures the confidentiality of patient-doctor interactions.",
+			"Financial Transparency Real-time financial tracking and automated deposit processes provide transparency for doctors."
+		],
+		"FutureEnhancements": {
+			"IntegrationWithHealthRecords": "Explore possibilities for integrating with electronic health record (EHR) systems for enhanced data management.",
+			"AutomatedTaskManagement": "Consider automating routine administrative tasks to further streamline operations.",
+			"EnhancedAnalytics": "Continuously refine analytical tools for deeper insights into user behavior and app activity."
+		},
+		"Conclusion": "The Kiadah Medical Consultation and Booking Application has successfully revolutionized healthcare interactions by providing a seamless and secure platform for both doctors and patients. The robust technology stack, coupled with user-friendly features, has resulted in positive feedback and efficient healthcare management. The ongoing commitment to improvement and future enhancements ensures that the application remains at the forefront of innovation in the healthcare industry."
+	}
+}
