@@ -89,7 +89,7 @@ export default function Footer() {
 							Srinagar HQ
 						</Heading>
 						<Text mb="5" data-aos="fade-up" fontWeight="300">
-							190011, Hawal Srinagar{" "}
+							190010, Karan Nagar Srinagar{" "}
 						</Text>
 						<Link
 							href={`tel:+917006078236`}
@@ -139,7 +139,7 @@ export default function Footer() {
 				>
 					Privacy Policy
 				</Link>
-				<Text opacity=".8">©2023 - Hikan Datalabs</Text>
+				<Text opacity=".8">©2024 - Hikan Datalabs</Text>
 			</Flex>
 		</Flex>
 	);
